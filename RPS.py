@@ -1,4 +1,4 @@
-# Everett & Alshaikh & Abdullah
+# Everett & Alshaikh & Abdulla
 import random
 game = [
     ["draw", "win", "lose"],
